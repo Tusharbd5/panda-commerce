@@ -1,0 +1,78 @@
+@font-face{
+    src: url(fonts/KronaOne-Regular.ttf);
+    font-family: Krona;
+}
+.container{
+    margin-bottom: 100px;
+}
+.slide-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.col-md-7 h1{
+    font-family: Krona;
+    font-weight: 400;
+    font-size: 35px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #ff136f;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-image: linear-gradient(to bottom, orange, rgb(219, 159, 69));
+}
+.cat2{
+    background-image: linear-gradient(to bottom, orchid, rgb(245, 139, 255));
+}
+.cat3{
+    background-image: linear-gradient(to bottom,blue, lightBlue);
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-title{
+    font-family: Krona;
+}
+.card-footer{
+    border-top: none;
+    background-color: rgb(205, 247, 226);
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+footer{
+    text-align: center;
+    font-family: cursive;
+    color: gray;
+    font-size: 15px;
+    background-color: honeydew;
+    height: 50px;
+
+    
+
+}
